@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</br>
+<h2> Connect with me on 👇</h2>
+<a href="https://www.linkedin.com/in/jagdevsingh87/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
+<br/> 
 
-<!--
-**jagdevsingh87/jagdevsingh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Github Stats </h2> 
+<a href="https://github.com/jagdevsingh87/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdevsingh87&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdevsingh87&theme=tokyonight" alt="jagdevsingh" />
+<br/>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=jagdevsingh87&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=jagdevsingh87)
+<img src="https://img.shields.io/github/forks/jagdevsingh87/jagdevsingh87?style=social"></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
